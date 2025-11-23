@@ -1,6 +1,6 @@
 # Cryptnome Landing Page
 
-A simple, responsive landing page for Cryptnome, built with HTML and CSS.
+A sample landing page for Cryptnome, built using HTML and CSS.
 
 ## License
 
